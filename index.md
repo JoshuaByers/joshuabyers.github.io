@@ -1,6 +1,6 @@
-## Joshua Byers' Github Website
+## Joshua Byers' GitHub Website
 
-Welcome to my barebones Github website!
+Welcome to my barebones GitHub website!
 
 ### Why I Created This Site
 
